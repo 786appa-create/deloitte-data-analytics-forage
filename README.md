@@ -16,7 +16,7 @@ analysis, interpretation, and visualization.
 
 ## Certificate
 📄 **Deloitte Data Analytics Job Simulation – Certificate**  
-[Click here to view the certificate](./data-analyst-deloitte-certificate.pdf)
+[Click here to view the certificate](./data analyst delloit certificate.pdf)
 
 ## Candidate
 **Name:** Appaso Suryavanshi  
